@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Compass
 Comment=A clean and attractive icon theme by Nitrux
-Inherits=Deepin,gnome,hicolor
+Inherits=Deepin-2014,Deepin,gnome,hicolor
 Example=x-directory-normal
 
 Directories=actions/big,apps/big,apps/small,categories/big,devices/big,devices/small,emblems/big,mimetypes/big,places/big,places/small,status/big,status/small
