@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="gnome-help.svg" inkscape:version="0.48+devel r12662"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<sodipodi:namedview  showgrid="false" inkscape:cy="31.744626" inkscape:cx="34.461781" inkscape:zoom="7.0433438" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:window-maximized="1" inkscape:window-y="30" inkscape:window-x="0" inkscape:window-height="714" inkscape:window-width="1366" inkscape:current-layer="g846" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2">
+	<sodipodi:guide  orientation="0,0" position="23.400014,15.000005" id="guide3263"></sodipodi:guide>
+	<sodipodi:guide  orientation="2.4,0" position="26.400063,19.800005" id="guide3265"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,-6.000029" position="26.400063,17.400005" id="guide3267"></sodipodi:guide>
+	<sodipodi:guide  orientation="-1.8,0" position="20.400034,17.400005" id="guide3269"></sodipodi:guide>
+	<sodipodi:guide  orientation="1.8,0" position="20.400034,30.600005" id="guide3271"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,-6.000031" position="20.400034,28.800005" id="guide3273"></sodipodi:guide>
+	<sodipodi:guide  orientation="-1.2,0" position="14.400003,28.800005" id="guide3275"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,0" position="24.000041,39.000005" id="guide3277"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-1004.3622)" inkscape:label="Capa 1" inkscape:groupmode="layer">
+	<g id="g846" transform="translate(-61.043672,-14.648105)">
+		<path id="path829" inkscape:connector-curvature="0" fill="#DCDCDC" d="M84.444,1052.01c1.657,0,3,1.343,3,3s-1.343,3-3,3
+			c-1.657,0-3-1.343-3-3C81.444,1053.353,82.787,1052.01,84.444,1052.01z M85.044,1028.01c5.302,0,9.6,3.429,9.6,8.4
+			c0,1.8-1.2,4.8-3.6,6c-2.4,1.2-3.6,2.812-3.6,4.8v2.4h-6v-1.8c0-4.081,3.6-6.6,4.8-7.8c2.4-2.4,2.4-2.733,2.4-3.6
+			c0-1.989-1.612-3.6-3.6-3.6c-1.988,0-3.6,1.611-3.6,3.6v1.8h-6v-1.2C75.444,1032.04,79.742,1028.01,85.044,1028.01z"/>
+	</g>
+</g>
+</svg>

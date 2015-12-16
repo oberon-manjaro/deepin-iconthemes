@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg4183" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="system-reboot.svg" inkscape:version="0.48+devel r12660"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<sodipodi:namedview  showgrid="false" inkscape:cy="36.878889" inkscape:cx="44.040309" inkscape:zoom="5.7317365" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:window-maximized="1" inkscape:window-y="30" inkscape:window-x="0" inkscape:window-height="714" inkscape:window-width="1366" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2">
+	<sodipodi:guide  orientation="30,0" position="9,39.000017" id="guide3275"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,30" position="9,9.0000174" id="guide3277"></sodipodi:guide>
+	<sodipodi:guide  orientation="-30,0" position="39,9.0000174" id="guide3279"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,-30" position="39,39.000017" id="guide3281"></sodipodi:guide>
+	<sodipodi:guide  orientation="18,0" position="9,39.000017" id="guide3294"></sodipodi:guide>
+	<sodipodi:guide  orientation="18,0" position="9,27.000017" id="guide4104"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,18" position="9,9.0000174" id="guide4106"></sodipodi:guide>
+	<sodipodi:guide  orientation="-18,0" position="27,9.0000174" id="guide4108"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,-18" position="27,27.000017" id="guide4110"></sodipodi:guide>
+	<sodipodi:guide  orientation="4,0" position="27,13.000017" id="guide3278"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,-11" position="27,9.0000174" id="guide3280"></sodipodi:guide>
+	<sodipodi:guide  orientation="-4,0" position="16,9.0000174" id="guide3282"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,11" position="16,13.000017" id="guide3284"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,-4" position="27,9.0000174" id="guide3286"></sodipodi:guide>
+	<sodipodi:guide  orientation="-11,0" position="23,9.0000174" id="guide3288"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,4" position="23,20.000017" id="guide3290"></sodipodi:guide>
+	<sodipodi:guide  orientation="11,0" position="27,20.000017" id="guide3292"></sodipodi:guide>
+</sodipodi:namedview>
+<rect id="rect3271" x="9" y="9" fill="none" width="30" height="30"/>
+<path id="path3283" fill="#D1D1D1" d="M23.994,9c-3.927,0-7.829,1.618-10.604,4.395S9,20.073,9,24s1.616,7.829,4.391,10.605
+	S20.067,39,23.994,39c1.01,0,2.018-0.11,3.006-0.316v-4.119C26.023,34.845,25.011,35,23.994,35c-2.88,0-5.74-1.186-7.775-3.223
+	S13,26.88,13,24s1.184-5.741,3.219-7.777S21.114,13,23.994,13s5.744,1.184,7.781,3.221c1.32,1.319,2.276,2.987,2.791,4.779h4.117
+	c-0.595-2.856-2.015-5.543-4.08-7.607C31.825,10.616,27.921,9,23.994,9z"/>
+<path id="path3287" sodipodi:ry="2.0000615" sodipodi:rx="2.0013857" sodipodi:cy="1041.3622" sodipodi:cx="23.998613" sodipodi:type="arc" fill="#D35F5F" d="
+	M26,37c0,1.047-0.954,2-2.001,2C22.952,39,22,38.047,22,37s0.952-2,1.999-2C25.046,35,26,35.953,26,37z"/>
+<rect id="rect3290" x="9" y="21" fill="none" width="18" height="18"/>
+<rect id="rect3280" x="16" y="35" fill="#D1D1D1" width="11" height="4"/>
+<rect id="rect3282" x="23" y="28" fill="#D1D1D1" width="4" height="11"/>
+</svg>

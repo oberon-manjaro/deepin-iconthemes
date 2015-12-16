@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="document-open.svg" inkscape:version="0.48+devel r12660"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="48px" height="48px"
+	 viewBox="0 0 48 48" enable-background="new 0 0 48 48" xml:space="preserve">
+<sodipodi:namedview  showgrid="false" inkscape:cy="30.05928" inkscape:cx="28.899302" inkscape:zoom="8.0343727" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" inkscape:window-maximized="1" inkscape:window-y="30" inkscape:window-x="0" inkscape:window-height="714" inkscape:window-width="1366" inkscape:current-layer="layer1" inkscape:document-units="px" inkscape:pageopacity="0.0" inkscape:pageshadow="2">
+	<inkscape:grid  id="grid3004" type="xygrid"></inkscape:grid>
+	<sodipodi:guide  orientation="30,0" position="9,39.000017" id="guide3263"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,30" position="9,9.0000174" id="guide3265"></sodipodi:guide>
+	<sodipodi:guide  orientation="-30,0" position="39,9.0000174" id="guide3267"></sodipodi:guide>
+	<sodipodi:guide  orientation="0,-30" position="39,39.000017" id="guide3269"></sodipodi:guide>
+</sodipodi:namedview>
+<g id="layer1" transform="translate(0,-1004.3622)" inkscape:label="Capa 1" inkscape:groupmode="layer">
+	<path id="rect3263" inkscape:connector-curvature="0" sodipodi:nodetypes="cccccccccc" fill="#DCDCDC" d="M9,1043.362h30v-26H9
+		V1043.362z M13,1039.362v-18h22v18H13z"/>
+	<rect id="rect3317" x="9" y="1013.362" fill="#DCDCDC" width="11" height="4"/>
+	
+		<path id="path3329" sodipodi:ry="2.0000615" sodipodi:rx="2.0013857" sodipodi:cy="1041.3622" sodipodi:cx="19.998613" sodipodi:type="arc" fill="none" d="
+		M22,1041.362L22,1041.362L22,1041.362z"/>
+	
+		<path id="path3333" sodipodi:ry="2.0000615" sodipodi:rx="2.0013857" sodipodi:cy="1028.3622" sodipodi:cx="10.998613" sodipodi:type="arc" fill="none" d="
+		M13,1028.362L13,1028.362L13,1028.362z"/>
+</g>
+</svg>
